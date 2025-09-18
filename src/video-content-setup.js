@@ -181,10 +181,6 @@ class VideoContentSetup {
 
     this.preloadVideoPoster(content, content.data.msrc);
 
-    content.element.style.position = 'absolute';
-    content.element.style.left = 0;
-    content.element.style.top = 0;
-    
     if (content.data.videoSources) {
       content.data.videoSources.forEach((source) => {
         let sourceEl = document.createElement('source');

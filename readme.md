@@ -67,7 +67,7 @@ If you're providing the data directly via object:
   msrc: 'poster.jpg',
 
   // if you're using just one source
-  videoSrc: 'my-video.mp4',
+  videoSources: 'my-video.mp4',
 
   // Or for multiple sources;
   // videoSrc: [

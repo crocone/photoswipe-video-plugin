@@ -190,7 +190,6 @@ class VideoContentSetup {
 
     this.preloadVideoPoster(content, content.data.msrc);
 
-
     if (content.data.videoSources) {
       content.data.videoSources.forEach((source) => {
         let sourceEl = document.createElement('source');
