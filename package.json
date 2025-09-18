@@ -1,5 +1,5 @@
 {
-  "name": "photoswipe",
+  "name": "photoswipe-video-plugin-croc",
   "version": "1.0.3",
   "description": "PhotoSwipe Video Plugin",
   "main": "src/index.js",
